@@ -1,8 +1,20 @@
-# React + Vite
+# Swolenormous
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Swolenormous is the ultimate gym training app built using React and TailwindCSS. This project aims to provide users with a sleek, responsive interface for tracking workouts and managing their fitness routines.
 
-Currently, two official plugins are available:
+## Project Description
+Swolenormous offers a modern platform where users can log their exercises, monitor progress, and achieve their fitness goals. The app is designed with a focus on simplicity, performance, and user-friendly design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+* **Workout Logging:** Easily add and track your workouts.
+* **Responsive Design:** Ensures a seamless experience across all devices.
+* **User-Friendly Interface:** Intuitive design with a clean layout.
+
+## Technologies Used
+* **Front-end:** React.js, TailwindCSS
+* **Build Tool:** Vite
+* **Styling:** TailwindCSS for rapid UI development
+
+## Challenges Faced
+* **Design Consistency:** Ensuring the UI remained consistent across various screen sizes using TailwindCSS.
+* **State Management:** Efficiently managing the state of workout data and user inputs.
